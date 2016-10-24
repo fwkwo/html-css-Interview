@@ -1,0 +1,28 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	background: #f9f9f9;	
+}
+.wrapper{
+	background: #fff;
+	width: 78%;
+	margin:auto; 
+	min-height: 700px;
+	padding: 0 1%;
+}
+.wrapper div{
+	padding: 0.5% 0;
+}
+.wrapper div h5{
+	padding: 0.8% 0;
+	font-size: 15px;
+	color: #333;
+} 
+.wrapper div li{
+	line-height: 20px;
+	font-size: 14px;
+	color: #8c8c8c;
+	list-style-position:inside;
+}
